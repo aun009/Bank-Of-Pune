@@ -1,9 +1,9 @@
 package com.arun.bankappapplication.service;
 
-import com.example.bankapp.model.Account;
-import com.example.bankapp.model.Transaction;
-import com.example.bankapp.repository.AccountRepository;
-import com.example.bankapp.repository.TransactionRepository;
+import com.arun.bankappapplication.model.Account;
+import com.arun.bankappapplication.model.Transaction;
+import com.arun.bankappapplication.repository.AccountRepository;
+import com.arun.bankappapplication.repository.TransactionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

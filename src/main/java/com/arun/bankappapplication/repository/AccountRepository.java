@@ -1,6 +1,6 @@
 package com.arun.bankappapplication.repository;
 
-import com.example.bankapp.model.Account;
+import com.arun.bankappapplication.model.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
